@@ -29,5 +29,3 @@ It detects faces using **Haar Cascade Classifier** and predicts emotions using a
 - CNN (Convolutional Neural Network)
 
 ---
-
-
